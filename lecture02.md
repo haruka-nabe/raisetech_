@@ -2,13 +2,13 @@
 
 ## 学んだこと
 
-1バージョン管理システム
-1Git
-1Markdown
-1チーム開発におけるバージョン管理
-1開発で役立つ　GitHub TIPS
-1GitHub　TIPS
-1GitHubでのPR作成デモンストレーション
+*バージョン管理システム
+*Git
+*Markdown
+*チーム開発におけるバージョン管理
+*開発で役立つ　GitHub TIPS
+*GitHub　TIPS
+*GitHubでのPR作成デモンストレーション
 
 ## 感想
 
