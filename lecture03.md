@@ -21,6 +21,7 @@ DBサーバーとはアプリケーションで利用するデータを格納し
  バージョン　8.0.35
 ![mySQL](image/lecture03-3.png)
 
+### DBサーバーPサーバーを終了させた場合、引き続きアクセスできるか
 1. DBサーバーを終了させるとアクセスできない(コマンド`sudo systemctl stop mysqld`→`rails s`)。
 ![DBサーバー停止](image/lecture03-4.png)
 2. もう一度起動させるとアクセスできるようになる(コマンド`sudo systemctl restart mysqld`→`rails s`)。
