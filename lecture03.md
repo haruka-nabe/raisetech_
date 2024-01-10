@@ -34,5 +34,5 @@ RailsはBundleを使用し開発に必要なgemパッケージを管理する。
 ![Bundle](image/lecture03-6.png)
 
 　参考URL
- https://kitsune.blog/rails-summary
+ https://kitsune.blog/rails-summary  
  https://wa3.i-3-i.info/word13277.html
