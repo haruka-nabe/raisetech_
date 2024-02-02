@@ -9,7 +9,7 @@
 ![RDS構築](image/lecture04_image/lecture04_RDS_1.png)  
 ### セキュリティグループ
 ![RDSセキュリティグループ1](image/lecture04_image/lecture04_RDS-sg1.png) 
-![RDSセキュリティグループ2](image/lecture04_image/lecture04_RDS-sg2.png)  
+![RDSセキュリティグループ2](image/lecture04_image/lecture04_RDS_sg2.png) 
 ### サブネットはいずれもプライベートサブネット
 ![RDSプライベートサブネット１](image/lecture04_image/lecture04_RDS_2.png)
 ![RDSプライベートサブネット２](image/lecture04_image/lecture04_RDS_3.png)  
