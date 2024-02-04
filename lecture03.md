@@ -67,8 +67,8 @@ DBサーバーとはアプリケーションで利用するデータを格納し
 ![DBサーバー再起動](image/lecture03-5.png)
 
 ## Railsの構成管理ツール
-名前　Bundle  
-RailsはBundleを使用し開発に必要なgemパッケージを管理する。インストール、パッケージの更新やアンインストールなどの操作も行っている。
+名前　Bundler  
+RailsはBundlerを使用し開発に必要なgemパッケージを管理する。インストール、パッケージの更新やアンインストールなどの操作も行っている。
 ![Bundle](image/lecture03-6.png)　　
 
 　参考URL
