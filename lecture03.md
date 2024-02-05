@@ -16,7 +16,7 @@
 ・初期パスワードの入手、動作確認  
 　初期パスワードの確認。  
 `sudo cat /var/log/mysqld.log | grep "temporary password" | awk '{print $13}'`  
-　ログイン確認  
+　ログイン確認、、  
 パスワード要求が出るので控えたパスワードを入力。 
 `mysql -u root -p`  
 
