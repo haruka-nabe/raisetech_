@@ -57,7 +57,7 @@ $ sudo vim /etc/nginx/nginx.conf
 ### 5. ELB(ALB)の追加 
 ![ELB(ALB)の追加](/image/lecture05_image/lecture05_7.png)  
 + ALBのDNSでRailsアプリケーションの動作確認    
-![ALBのDNSでRailsアプリケーションの動作確認](/image/lecture05_image/lecture05_8.png) 
+![ALBのDNS名でRailsアプリケーションの動作確認](/image/lecture05_image/lecture05_8.png) 
 ### 6. S3の追加  
 ![S3の追加](/image/lecture05_image/lecture05_9.png)  
 S3に写真を保存  
